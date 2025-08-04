@@ -1,6 +1,6 @@
 # 🏦 Banking Management System
 
-A simple console-based Banking Management System built using Java and MySQL. This project demonstrates core banking features like account creation, deposits, withdrawals, balance checks, and PIN-based access — all powered by JDBC connectivity.
+Built a Banking Management System in Java following a guided YouTube tutorial. Modified and expanded features while gaining hands-on experience with JDBC, MySQL, and basic OOP principles.
 
 ---
 
